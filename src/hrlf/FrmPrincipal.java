@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Daliux
+ * @author Ana Cecilia
  */
 public class FrmPrincipal extends javax.swing.JFrame {
         ArrayList<String> lista = new ArrayList<String>();
